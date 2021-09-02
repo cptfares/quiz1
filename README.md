@@ -1,1 +1,1 @@
-# quiz1
+quiz is my first web application using vanilla js 
