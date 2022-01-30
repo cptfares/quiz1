@@ -1,1 +1,1 @@
-quiz is my first web application using vanilla js 
+QUIZ is my first web application using vanilla js. 
